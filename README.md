@@ -1,5 +1,7 @@
 # Micro Spring Security
 
+![header](src/main/resources/img/springsec.png)
+
 Spring security integration with restful web services, Bearer token
 
 ## Tech Stack
